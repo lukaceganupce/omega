@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/src/",
+      "Modules\\": "modules/src/"
+    }
+  },
+  "require": {
+    "pimple/pimple": "^3.0"
+  }
+}
